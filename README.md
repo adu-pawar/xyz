@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BugSlayer — Autonomous AI QA Engineer
 
 BugSlayer is a production-oriented, full-stack enterprise web application for autonomous software testing. It accepts an authorized website URL, analyzes pages, generates structured test cases from natural-language objectives, executes browser tests automatically via Playwright, detects and investigates failures with AI root-cause analysis, captures screenshots and logs, and produces downloadable PDF, CSV, and JSON audit reports.
@@ -153,3 +154,24 @@ npm run build
 4. **Live Runner**: Watch the Playwright worker navigate the target, perform assertions, and stream step logs in real time.
 5. **Inspect Defect**: If a test fails, review the captured screenshot, console logs, and AI root cause hypothesis in the **Bug Explorer**.
 6. **Reports**: Download real PDF, CSV, and JSON audit reports for compliance and engineering reviews.
+=======
+# VeriQA — Autonomous AI QA Engineer
+
+VeriQA is an AI-powered software testing platform that automates test generation, browser testing, bug detection, and authorized security assessments.
+
+### 🚀 Features
+- AI-powered test case generation
+- Automated browser testing with Playwright
+- Intelligent bug analysis and reporting
+- Regression and edge-case testing
+- Authorized website security assessments
+- Real-time test monitoring and analytics
+
+### 🛠️ Tech Stack
+React · Node.js · Express.js · MongoDB · Playwright · OpenAI/Gemini API
+
+### 🎯 Vision
+To make software testing faster, smarter, and more reliable through autonomous AI-powered quality assurance.
+
+**VeriQA — Test Smarter. Ship with Confidence.**
+>>>>>>> 33d5c786828ed15c1bc6d58867a13798439ee303

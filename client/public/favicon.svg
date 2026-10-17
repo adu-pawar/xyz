@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="8" fill="#17271F"/>
+  <!-- Elegant checkmark fused with botanical leaf motif -->
+  <path d="M8 17.5C10 20 12.5 22.5 14 24C16.5 18.5 20.5 12 25 8.5C21 11 16 16.5 14 21C12.5 19 10 17 8 17.5Z" fill="#A8B6A0"/>
+  <path d="M14 21C17 15 22 10.5 25 8.5C22 13 18.5 19 14 24" stroke="#F5F1E8" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
